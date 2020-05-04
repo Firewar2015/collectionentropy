@@ -5,4 +5,4 @@ Running with IIS 7, Application pool .NET v4.5 Classic
 No need for Database.  
 
 # Author Information 
-Developed and maintained by Enci Chen and Le Yang
+Developed and maintained by Enci Chen, Fuyi Wei, and Le Yang
