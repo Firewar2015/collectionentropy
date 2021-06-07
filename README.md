@@ -6,9 +6,16 @@ No need for Database.
 
 # Downloads
 
+Download or Clone from above repository link or click the link below
+
+Download: <a href="https://github.com/Firewar2015/collectionentropy/archive/refs/heads/master.zip">GitHub</a>
 
 # Install
-
+The system runs based on iis with Windows.
+IIS can be enabled from the link below<br>
+https://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-10-components-server.htm<br>
+or video<br>
+https://www.youtube.com/watch?v=fTMPq3Ti1OU
 
 # Author Information 
 Developed and maintained by Enci Chen, Fuyi Wei, and Le Yang
