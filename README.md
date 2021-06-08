@@ -20,7 +20,7 @@ https://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-10-co
 or video<br>
 https://www.youtube.com/watch?v=fTMPq3Ti1OU<br>
 
-Adress http://localhost/ can be used to check the succes of installation.<br>
+Address http://localhost/ can be used to check the success of installation.<br>
 
 <b>Step 2, download the project with the link <a href="https://github.com/Firewar2015/collectionentropy/archive/refs/heads/master.zip">GitHub</a> </b><br>
   
