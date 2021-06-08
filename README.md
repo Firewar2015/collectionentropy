@@ -23,9 +23,8 @@ https://www.youtube.com/watch?v=fTMPq3Ti1OU<br>
 Address http://localhost/ can be used to check the success of installation.<br>
 
 <b>Step 2, download the project with the link <a href="https://github.com/Firewar2015/collectionentropy/archive/refs/heads/master.zip">GitHub</a> </b><br>
-  
 <b>Step 3, unzipped the downloaded zip file collectionentropy-master.zip</b><br>
-<b>Step 4, copy of the files have been UNZIPPED in the folder of collectionentropy-maste</b><br>
+<b>Step 4, copy of the files have been UNZIPPED in the folder of <collectionentropy-maste></b><br>
 <b>Step 5, paste all the copied files to C:\inetpub\wwwroot(The default folder for http://localhost/ )</b><br>
 <b>Step 6, open the address http://localhost/default.aspx by browsers.</b><br>
 <b>Step 7, input Tj ,C and T0, click the button of <Calculation>, get the result of P.</b><br>
